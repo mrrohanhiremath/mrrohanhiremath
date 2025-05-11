@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer, always e
 - 💼 **Profession:** Software Engineer
 - 🏢 **Current Organization:**
 - 🎯 **Career Goals:** Innovating, building scalable solutions, and contributing to impactful projects.
-- 🌏 **Location:**Bangalore, India
+- 🌏 **Location:** Bangalore, India
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1F5OLetrhX48fFdtdzRL7x3c4AtAsU02m/view?usp=drive_link)
 
 ---
