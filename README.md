@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer, always e
 ---
 
 ## 🌟 About Me
-- 💼 **Profession:** [Your Role, e.g., Software Engineer | Backend Developer | Open Source Contributor]
-- 🏢 **Current Organization:** [Your Organization or Freelance if applicable]
+- 💼 **Profession:** Software Engineer
+- 🏢 **Current Organization:**
 - 🎯 **Career Goals:** Innovating, building scalable solutions, and contributing to impactful projects.
-- 🌏 **Location:** [Your Location, e.g., Bangalore, India]
+- 🌏 **Location:**Bangalore, India
 - 📄 **Resume:** [View My Resume](https://github.com/mrrohanhiremath)
 
 ---
