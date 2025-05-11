@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer, always e
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/mrrohanhiremath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrrohanhiremath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418467_crid.657403558730_kw.linkedin%20web%20login_d.c_tid.kwd-848799547095_n.g_mt.e_geo.1007768)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle)
 
 ---
